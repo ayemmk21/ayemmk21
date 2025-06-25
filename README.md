@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 I'm a junior Computer Engineering student at KMITL, Thailand.
-- 🌱 I am currently focusing on Python for data analytics, alongside developing skills in web development.
+- 🌱 currently learning Python 
 - 📫 How to reach me: ayemohmohkhin001@gmail.com
 
 ### 🛠️ Languages and Tools:
