@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm a junior Computer Engineering student at KMITL, Thailand.
+a student 
 - 🌱 currently learning Python 
 - 📫 How to reach me: ayemohmohkhin001@gmail.com
 
