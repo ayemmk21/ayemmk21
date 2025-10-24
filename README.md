@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 a student 
 - 🌱 currently learning Python 
-- 📫 How to reach me: ayemohmohkhin001@gmail.com
+- 📫 How to reach me: ayemmmk@proton.me
 
 ### 🛠️ Languages and Tools:
 
