@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 a student 
 - 🌱 currently learning Python 
 - 📫 How to reach me: ayemmmk@proton.me
-- 📥 [Download My Resume (PDF)](https://raw.githubusercontent.com/ayemmk21/ayemmk21/main/AMMK_Resume.pdf)
+- 📥 [Download My Resume (PDF)](https://raw.githubusercontent.com/ayemmk21/ayemmk21/main/ammk_resume.pdf)
 
 ### 🛠️ Languages and Tools:
 
