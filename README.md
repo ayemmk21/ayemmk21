@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-a student 
+a computer engineering student at KMITL
 - 🌱 currently learning Python 
 - 📫 How to reach me: ayemmmk@proton.me
 - 📥 [Download My Resume (PDF)](https://raw.githubusercontent.com/ayemmk21/ayemmk21/main/ammk_resume.pdf)
