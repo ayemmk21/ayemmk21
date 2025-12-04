@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 a computer engineering student at KMITL
-- currently learning Python 
+- currently focusing on Python for Data Analysis and Machine Learning 
 - How to reach me: ayemohmohkhin001@gmail.com
 
 ### 🛠️ Languages and Tools:
