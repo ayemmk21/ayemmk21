@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 3rd Year Computer engineering student at KMITL
-- currently focusing on Python for Data Analysis and Machine Learning 
-- How to reach me: ayemohmohkhin001@gmail.com
+- Final Year Computer engineering student at KMITL
+- How to reach me: aekhin21@gmail.com
 
 ### 🛠️ Languages and Tools:
 
